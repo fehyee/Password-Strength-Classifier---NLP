@@ -1,7 +1,7 @@
 # Password-Strength-Classifier-NLP
 
 ## Project Objective
-To build a password strength classifier model that classifies password strength to be either low, average or high.
+To build a password strength classifier that classifies password's strength to be either low, average or high.
 
 ## Methods used preprocessing
 The data used for this project was extracted from an API and was preprocessed using python libraries. 
