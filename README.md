@@ -10,7 +10,7 @@ The data was further converted into vector representation using TF-IDF vectorize
 to deal with the imbalanced data.
 
 ## Model Building
-The data was divided ito train data and test data to avoid overfitting and underfitting.
+The data was further divided into train data and test data to avoid overfitting and underfitting.
 The model was initially built with LogisticRegression which resulted to an accuracy of 80%.
 For better accuracy, the model was built using RandomForestClassifier with an accuracy of 97%.
 
