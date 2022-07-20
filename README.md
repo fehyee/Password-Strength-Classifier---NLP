@@ -11,6 +11,7 @@ to deal with the imbalanced data.
 
 ## Model Building
 The data was further divided into train data and test data to avoid overfitting and underfitting.
+Train data to learn the relationship within the data and test data will be unseen by the model and will the used to test the model.
 The model was initially built with LogisticRegression which resulted to an accuracy of 80%.
 For better accuracy, the model was built using RandomForestClassifier with an accuracy of 97%.
 
