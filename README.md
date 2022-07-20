@@ -17,4 +17,4 @@ For better accuracy, the model was built using RandomForestClassifier with an ac
 
 ## Is the model Optimal for predictions?
 Yes!!!
-The model is optimal for predictions and can be used for as a model for other preprocessed datasets.
+The model is optimal for predictions and can be used as a model for other preprocessed classification datasets.
